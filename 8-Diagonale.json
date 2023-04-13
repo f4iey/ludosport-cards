@@ -1,0 +1,14 @@
+{                                                                         
+    "name": "Diagonale",
+    "media": "Diagonale.gif",
+    "form": "1",                                                          
+    "croce": "seconde",                                                  
+    "ligatura": "N/A",                                                
+    "dir": "diagonale",                                                 
+    "way": "droite/gauche",                                               
+    "moveType": "rotation",
+    "touch": "taglio",
+    "zone": "debole",                                                     
+    "target": "de l'epaule au coude",
+    "desc": "L'attaque la plus complexe de forme 1. Ici, le point clé est de garder des angles de 45° sur toutes les étapes et le bloquer les poignets en descente. Le nouveau type de touche taglio s'effectue en decrivant un cercle avec le hilt (effet piston)."
+}    

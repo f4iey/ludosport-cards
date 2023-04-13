@@ -1,0 +1,14 @@
+{
+    "name": "Levante",
+    "media": "Levante.gif",
+    "form": "1",
+    "croce": "seconde",
+    "ligatura": "N/A",
+    "dir": "diagonale",
+    "way": "droite/gauche",
+    "moveType": "translation",
+    "touch": "splinta",
+    "zone": "medio",
+    "target": "du genou au bassin",
+    "desc": "La seule attaque ou l'on rentre dans la casa secura de l'adversaire. Bien penser a pousser en s'aidiant des jambes. La défense du Levante est...Un Levante!"
+}
