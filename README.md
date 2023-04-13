@@ -5,12 +5,12 @@ It uses Python and Jinja2 templates.
 
 ## Install
 
-~~### Docker
-You can pull the Docker image directly form this repository:
-```sh
-docker pull ghcr.io/f4iey/ludosport-cards:latest
-```
-It comes with every needed dependencies installed.~~
+~~### Docker~~
+~~You can pull the Docker image directly form this repository:~~
+~~```sh~~
+~~docker pull ghcr.io/f4iey/ludosport-cards:latest~~
+~~```~~
+~~It comes with every needed dependencies installed.~~
 
 ### From source
 
