@@ -1,0 +1,14 @@
+{
+    "name": "Laterale",
+    "media": "logo.png",
+    "form": "1",
+    "croce": "first",
+    "ligatura": "second",
+    "dir": "horizontal",
+    "way": "left/right",
+    "moveType": "translation",
+    "touch": "toco",
+    "zone": "debole",
+    "target": "arm",
+    "desc": "The Laterale is the first move we learn as novizios"
+}

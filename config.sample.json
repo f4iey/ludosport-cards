@@ -1,0 +1,14 @@
+{
+    "name": "Move name",
+    "media": "Thumbnail",
+    "form": "[1-6]",
+    "croce": "[first-second]",
+    "ligatura": "[first-second]",
+    "dir": "direction",
+    "way": "trajectory",
+    "moveType": "blocage",
+    "touch": "touch type (e.g toco/taglio/splinta...)",
+    "zone": "saber hit zone (debole/medio/forte...)",
+    "target": "Body part to target",
+    "desc": "Additionnal info"
+}
